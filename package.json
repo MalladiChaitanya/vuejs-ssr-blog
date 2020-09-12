@@ -1,0 +1,23 @@
+{
+  "name": "malladi-chaitanya-blog",
+  "version": "1.0.0",
+  "description": "This is a Vue Js SSR app on NodeJs using Mongodb for Blog Architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalladiChaitanya/vuejs-ssr-blog.git"
+  },
+  "keywords": [
+    "VueJs",
+    "SSR"
+  ],
+  "author": "Chaitanya Malladi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MalladiChaitanya/vuejs-ssr-blog/issues"
+  },
+  "homepage": "https://github.com/MalladiChaitanya/vuejs-ssr-blog#readme"
+}
